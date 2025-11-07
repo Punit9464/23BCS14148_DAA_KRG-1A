@@ -137,7 +137,7 @@ npm install
 npm run dev
 ```
 
-Visit [http://localhost:5173](http://localhost:5173) to open the application.
+Visit [http://localhost:3000](http://localhost:3000) to open the application.
 
 ---
 
